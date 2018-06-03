@@ -1,0 +1,35 @@
+a=int (input ())
+if a>=100:
+    a=input ('A')
+    print (a)
+if a>=95:
+    a=input ('A')
+    print (a)
+if a>=90:
+    a=input ('A-')
+    print (a)
+if a>=85:
+    a=input ('B+')
+    print (a)
+if a>=80:
+    a=input ('B')
+    print (a)
+if a>=75:
+    a=input ('B-')
+    print (a)
+if a>=65:
+    a=input ('C')
+    print (a)
+if a>=60:
+    a=input ('C-')
+    print (a)
+if a>=55:
+    a=input ('D+')
+    print (a)
+if a>=50:
+    a=input ('D')
+    print (a)
+if a<50:
+    a=input ('F')
+    print (a)
+
